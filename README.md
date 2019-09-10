@@ -1,5 +1,7 @@
 # LiveView
 
+## See first commit for LiveView usage
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
